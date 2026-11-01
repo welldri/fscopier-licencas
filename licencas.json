@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T14:15:27.013049+00:00",
+  "updated_at": "2026-11-01T14:19:37.172715+00:00",
   "licenses": {
     "ABA028A1595418AF2E92C7F3688EC9EBF9F616843D9BFF21B48CFE0D54F3203E": {
       "payload": {
@@ -9,11 +9,11 @@
         "plan": "LIFETIME",
         "device_id": "ABA028A1595418AF2E92C7F3688EC9EBF9F616843D9BFF21B48CFE0D54F3203E",
         "status": "ACTIVE",
-        "issued_at": "2026-11-01T13:49:39.493721+00:00",
+        "issued_at": "2026-11-01T14:19:37.070693+00:00",
         "expires_at": null,
         "max_devices": 1
       },
-      "signature": "gRxd7iGSRb8WC7d9csYBDkGBcIefjGvJ6g+RqzjEgs8Hqh4DijvQ8Lw6uFaDgpxEriWnbEG7gN1cfl+BmErS8en2ZWUVbIfchaQ1xJ2OaZcvnwWW29HxheNOE9ksMI+xGXgySkeIHvxT33TC+G8NVxMvR5rylMJ6BZbbefsrL2mxWCDVaH7dFW2giiFPRau7MjCQJZYcoWx8KSavhONM0kDQWcPPcrnNsg3HnnpMpGIFvET5uxlXfPx4WI9B5wvVxyMFcH3DOjNEvitCVw5gRoNm1LBa4iuV9+4G59GK0NR44XXRWMhpqJ1D/kNuSo1Qra5KOE2MUgASbKk6jk+ba2BAnG+cvDASX3xjxheI2OXRpvDqoXDU1SjIPKbWTjLyKoSDWcotDFbTewLK89HMafG/yqUnFzjbkdBZibB540V02EWZfMCfzLXWWLQJwoJkFm9Zl8VhA/LmoylMAB9UM0s6LavR7Q8uGJmfiNpzdKGTjm/Dx/Mev1tX27xbu6tN"
+      "signature": "k7IreVHnIaq28QqX+r8b2/aimZMjbI4PdBkN8F0KkM2IFFuLOCK2a72V0nmaAakSczzeNs0Hwm+FFF03H23osvYa8vjmIFOZwMaox8q3x5g9t3mE2+EvSkFDB9NtaunkFskK5WtX1rNCw3LGQK6EKJ3Qsegg4vPZJpWNoxgnY8wjEMqWpq10p3JbedvBO7OvdvKg/O9+BzXWDveL8Jty9pUc40j+nMcGHMoRtJzuH/Iru24RgZSE2N4ZiOVfVcGluJx7sca8Ob8lkOMVZOI2JhjWeMs6zLqLEgjjwb+LS9KU11TNcC58T0zRCQ5AVRe9gUEHtRUjjK16vyXzCQewXlLPrgOtBrSFAqFOd/xM4lWtGzUMpzvR0iwxYUWF2zvFvqo6l7LEMd+p4JfZBiohYmE0sFzqXV9UgEPuOWv5WoIt6gCVQ70x5ndQYudkevvgElT+0hZaQuPK2zF8OWTnZOUB4gxQZT+S3xkhn9wo3Md50dv2gKhCXI2wx4NJaldt"
     }
   }
 }
